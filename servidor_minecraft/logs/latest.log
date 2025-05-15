@@ -168,3 +168,8 @@
 [02:59:35] [Server thread/INFO]: Elpucarlino joined the game
 [03:05:08] [Server thread/INFO]: luisb250[/100.125.20.116:65012] logged in with entity id 1045 at (1367.4154087172947, 70.0, 235.18869113624686)
 [03:05:08] [Server thread/INFO]: luisb250 joined the game
+[03:47:24] [Server thread/INFO]: Elpucarlino lost connection: Timed out
+[03:47:24] [Server thread/INFO]: Elpucarlino left the game
+[03:47:24] [Server thread/WARN]: handleDisconnection() called twice
+[03:47:56] [Server thread/INFO]: Elpucarlino[/100.119.117.67:52147] logged in with entity id 12517 at (1368.018902919492, 70.0, 236.80067483956623)
+[03:47:56] [Server thread/INFO]: Elpucarlino joined the game
