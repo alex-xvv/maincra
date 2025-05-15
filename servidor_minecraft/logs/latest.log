@@ -167,3 +167,8 @@
 [17:27:42] [Server thread/INFO]: Elpucarlino[/100.119.117.67:50510] logged in with entity id 39 at (1366.242085723474, 70.5625, 235.36294004581873)
 [17:27:42] [Server thread/INFO]: Elpucarlino joined the game
 [17:32:11] [Server thread/INFO]: [Elpucarlino: Set own game mode to Creative Mode]
+[17:47:32] [Server thread/INFO]: Villager class_1646['Unemployed'/3913, l='ServerLevel[world]', x=1548.70, y=69.95, z=337.50] died, message: 'Unemployed was slain by Zombie'
+[17:47:42] [Server thread/INFO]: Villager class_1646['Unemployed'/3655, l='ServerLevel[world]', x=1548.70, y=68.00, z=337.30] died, message: 'Unemployed was slain by Elpucarlino'
+[17:47:47] [Server thread/INFO]: Villager class_1646['Unemployed'/3794, l='ServerLevel[world]', x=1548.85, y=68.00, z=337.50] died, message: 'Unemployed was slain by Elpucarlino'
+[17:48:01] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 1334.500000, 67.500000, 295.500000]
+[17:48:22] [Server thread/INFO]: Elpucarlino has completed the challenge [Serious Dedication]
