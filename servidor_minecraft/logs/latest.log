@@ -179,3 +179,7 @@
 [03:42:01] [Server thread/INFO]: [Elpucarlino: Set the time to 13000]
 [03:42:12] [Server thread/INFO]: [Elpucarlino: Set the time to 1000]
 [03:52:48] [Server thread/INFO]: [Elpucarlino: Set the time to 1000]
+[04:02:19] [Server thread/INFO]: [Elpucarlino: Set the time to 1000]
+[04:09:32] [Server thread/INFO]: Villager class_1646['Unemployed'/15190, l='ServerLevel[world]', x=1344.70, y=63.00, z=298.30] died, message: 'Unemployed was slain by Elpucarlino'
+[04:09:33] [Server thread/INFO]: Villager class_1646['Unemployed'/11274, l='ServerLevel[world]', x=1344.70, y=63.00, z=298.59] died, message: 'Unemployed was slain by Elpucarlino'
+[04:10:32] [Server thread/INFO]: [Elpucarlino: Set the time to 1000]
