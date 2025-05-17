@@ -167,3 +167,6 @@
 [02:15:47] [Server thread/INFO]: Elpucarlino[/100.119.117.67:49951] logged in with entity id 40 at (1364.873732865735, 70.5625, 235.66641214293185)
 [02:15:47] [Server thread/INFO]: Elpucarlino joined the game
 [02:16:54] [Server thread/INFO]: [Elpucarlino: Set own game mode to Creative Mode]
+[02:27:25] [Server thread/INFO]: Villager class_1646['Unemployed'/1640, l='ServerLevel[world]', x=1344.70, y=63.00, z=298.50] died, message: 'Unemployed was slain by Elpucarlino'
+[02:27:30] [Server thread/INFO]: Villager class_1646['Unemployed'/1655, l='ServerLevel[world]', x=1344.70, y=63.00, z=298.50] died, message: 'Unemployed was slain by Elpucarlino'
+[02:27:43] [Server thread/INFO]: Villager class_1646['Unemployed'/1662, l='ServerLevel[world]', x=1344.70, y=63.00, z=298.52] died, message: 'Unemployed was slain by Elpucarlino'
