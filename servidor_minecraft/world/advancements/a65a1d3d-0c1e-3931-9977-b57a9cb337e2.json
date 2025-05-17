@@ -136,7 +136,8 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "minecraft:pale": "2025-03-02 21:16:41 +0000"
+      "minecraft:pale": "2025-03-02 21:16:41 +0000",
+      "minecraft:woods": "2025-05-17 22:18:23 +0000"
     },
     "done": false
   },
