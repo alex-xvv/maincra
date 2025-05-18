@@ -190,3 +190,29 @@
 [05:28:35] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
 [05:30:28] [Server thread/INFO]: Elpucarlino has made the advancement [Who is Cutting Onions?]
 [05:32:35] [Server thread/INFO]: Elpucarlino has made the advancement [Hidden in the Depths]
+[05:36:24] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
+[05:39:27] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 184.500000, 70.500000, 24.500000]
+[05:39:37] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
+[05:41:55] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 3004.500000, 70.500000, -20.500000]
+[05:41:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[05:42:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:42:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:42:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:42:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:42:05] [Server thread/INFO]: [Elpucarlino: Teleported luisb250 to Elpucarlino]
+[05:42:06] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:42:06] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:42:06] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:42:06] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[05:42:52] [Server thread/INFO]: [luisb250: Teleported luisb250 to 1386.500000, 71.500000, 219.500000]
+[05:43:25] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 3809.500000, 111.500000, 165.500000]
+[05:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[05:43:31] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-99, y=-50, z=-77}
+[05:43:32] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=-99, y=-50, z=-80}
+[05:43:37] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 3011.500000, 70.500000, -15.500000]
+[05:43:59] [Server thread/INFO]: [Elpucarlino: Teleported Elpucarlino to 1385.500000, 70.500000, 229.500000]
+[05:45:56] [Server thread/INFO]: luisb250 has made the advancement [Hidden in the Depths]
+[05:52:57] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[05:52:57] [Server thread/INFO]: Elpucarlino left the game
+[05:53:06] [Server thread/INFO]: luisb250 lost connection: Disconnected
+[05:53:06] [Server thread/INFO]: luisb250 left the game
