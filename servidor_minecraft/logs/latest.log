@@ -185,3 +185,6 @@
 [21:43:03] [Server thread/INFO]: Villager class_1646['Toolsmith'/6596, l='ServerLevel[world]', x=1441.70, y=70.00, z=241.50] died, message: 'Toolsmith was slain by Zombie'
 [21:43:22] [Server thread/INFO]: Villager class_1646['Toolsmith'/6612, l='ServerLevel[world]', x=1441.70, y=70.00, z=239.50] died, message: 'Toolsmith was slain by Elpucarlino'
 [21:45:32] [Server thread/INFO]: [Elpucarlino: Set the time to 1000]
+[21:53:25] [Server thread/INFO]: [Elpucarlino: Set own game mode to Survival Mode]
+[21:54:36] [Server thread/INFO]: Elpucarlino lost connection: Disconnected
+[21:54:36] [Server thread/INFO]: Elpucarlino left the game
