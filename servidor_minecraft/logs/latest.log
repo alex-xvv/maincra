@@ -171,3 +171,11 @@
 [21:12:19] [Server thread/INFO]: [Elpucarlino: Set the time to 1000]
 [21:24:52] [Server thread/INFO]: Villager class_1646['Mason'/164, l='ServerLevel[world]', x=1445.70, y=71.05, z=241.70] died, message: 'Mason was slain by Zombie'
 [21:24:57] [Server thread/INFO]: [Elpucarlino: Set the time to 1000]
+[21:31:55] [Server thread/INFO]: Villager class_1646['Unemployed'/5354, l='ServerLevel[world]', x=1442.68, y=70.00, z=245.05] died, message: 'Unemployed was slain by Zombie'
+[21:33:28] [Server thread/INFO]: Villager class_1646['Unemployed'/5575, l='ServerLevel[world]', x=1438.51, y=69.00, z=241.35] died, message: 'Unemployed was slain by Elpucarlino'
+[21:34:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/5587, l='ServerLevel[world]', x=1441.30, y=71.02, z=241.70] died, message: 'Toolsmith was slain by Zombie'
+[21:34:59] [Server thread/INFO]: [Elpucarlino: Set the time to 1000]
+[21:35:22] [Server thread/INFO]: Villager class_1646['Toolsmith'/5786, l='ServerLevel[world]', x=1441.70, y=70.00, z=241.51] died, message: 'Toolsmith was slain by Zombie'
+[21:36:52] [Server thread/INFO]: Villager class_1646['Toolsmith'/5839, l='ServerLevel[world]', x=1440.30, y=71.00, z=243.30] died, message: 'Toolsmith was slain by Zombie'
+[21:37:08] [Server thread/INFO]: Villager class_1646['Unemployed'/5828, l='ServerLevel[world]', x=1441.30, y=71.00, z=239.54] died, message: 'Unemployed was slain by Elpucarlino'
+[21:37:16] [Server thread/INFO]: Villager class_1646['Unemployed'/5843, l='ServerLevel[world]', x=1442.25, y=73.00, z=245.64] died, message: 'Unemployed was slain by Elpucarlino'
