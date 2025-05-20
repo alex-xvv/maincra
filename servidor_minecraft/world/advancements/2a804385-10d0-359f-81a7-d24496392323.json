@@ -31,29 +31,33 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:badlands": "2025-03-06 02:43:29 +0000",
-      "minecraft:savanna_plateau": "2025-03-05 03:40:30 +0000",
-      "minecraft:beach": "2025-03-03 05:57:11 +0000",
+      "minecraft:snowy_slopes": "2025-05-20 04:15:34 +0000",
       "minecraft:mushroom_fields": "2025-05-18 05:42:05 +0000",
       "minecraft:forest": "2025-03-03 06:06:31 +0000",
       "minecraft:taiga": "2025-03-03 05:48:09 +0000",
-      "minecraft:sparse_jungle": "2025-03-04 03:59:27 +0000",
-      "minecraft:river": "2025-03-03 06:21:34 +0000",
       "minecraft:lush_caves": "2025-03-04 04:21:21 +0000",
-      "minecraft:snowy_taiga": "2025-03-03 05:50:33 +0000",
-      "minecraft:dripstone_caves": "2025-03-04 03:54:09 +0000",
-      "minecraft:old_growth_birch_forest": "2025-03-06 03:34:45 +0000",
       "minecraft:desert": "2025-03-06 02:44:39 +0000",
       "minecraft:frozen_river": "2025-03-03 05:38:32 +0000",
       "minecraft:jungle": "2025-03-04 03:59:03 +0000",
       "minecraft:cherry_grove": "2025-03-06 03:48:00 +0000",
-      "minecraft:meadow": "2025-03-04 03:37:21 +0000",
       "minecraft:snowy_beach": "2025-03-03 05:38:07 +0000",
-      "minecraft:savanna": "2025-03-04 03:52:19 +0000",
       "minecraft:bamboo_jungle": "2025-03-04 04:00:01 +0000",
-      "minecraft:plains": "2025-03-03 06:26:47 +0000",
       "minecraft:warm_ocean": "2025-03-06 02:45:11 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-05-20 02:20:19 +0000"
+      "minecraft:deep_lukewarm_ocean": "2025-05-20 02:20:19 +0000",
+      "minecraft:badlands": "2025-03-06 02:43:29 +0000",
+      "minecraft:savanna_plateau": "2025-03-05 03:40:30 +0000",
+      "minecraft:beach": "2025-03-03 05:57:11 +0000",
+      "minecraft:stony_peaks": "2025-05-20 04:09:41 +0000",
+      "minecraft:sparse_jungle": "2025-03-04 03:59:27 +0000",
+      "minecraft:river": "2025-03-03 06:21:34 +0000",
+      "minecraft:snowy_taiga": "2025-03-03 05:50:33 +0000",
+      "minecraft:dripstone_caves": "2025-03-04 03:54:09 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-06 03:34:45 +0000",
+      "minecraft:deep_dark": "2025-05-20 04:12:04 +0000",
+      "minecraft:meadow": "2025-03-04 03:37:21 +0000",
+      "minecraft:savanna": "2025-03-04 03:52:19 +0000",
+      "minecraft:plains": "2025-03-03 06:26:47 +0000",
+      "minecraft:jagged_peaks": "2025-05-20 04:09:51 +0000"
     },
     "done": false
   },
@@ -911,6 +915,7 @@
       "minecraft:blaze": "2025-05-18 04:50:19 +0000",
       "minecraft:skeleton": "2025-03-04 04:22:51 +0000",
       "minecraft:phantom": "2025-03-06 05:14:23 +0000",
+      "minecraft:zombified_piglin": "2025-05-20 04:07:23 +0000",
       "minecraft:witch": "2025-03-06 03:11:35 +0000",
       "minecraft:husk": "2025-03-04 05:26:21 +0000",
       "minecraft:cave_spider": "2025-03-04 04:51:03 +0000",
@@ -3464,6 +3469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-05-20 04:22:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-20 02:30:03 +0000"
@@ -3491,6 +3502,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-05-20 03:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-20 04:20:00 +0000"
     },
     "done": true
   },
