@@ -180,3 +180,12 @@
 [04:50:43] [Server thread/INFO]: Villager class_1646['Fletcher'/93, l='ServerLevel[world]', x=1441.30, y=70.00, z=237.30] died, message: 'Fletcher was slain by GODOFREDO'
 [04:55:53] [Server thread/INFO]: Villager class_1646['Unemployed'/2463, l='ServerLevel[world]', x=1441.70, y=71.00, z=249.62] died, message: 'Unemployed was slain by Elpucarlino'
 [04:57:34] [Server thread/INFO]: Villager class_1646['Librarian'/2527, l='ServerLevel[world]', x=1441.70, y=71.00, z=249.70] died, message: 'Librarian was slain by Elpucarlino'
+[04:59:55] [Server thread/INFO]: Villager class_1646['Unemployed'/2983, l='ServerLevel[world]', x=1440.90, y=71.13, z=249.50] died, message: 'Unemployed was slain by Elpucarlino'
+[05:01:56] [Server thread/INFO]: Villager class_1646['Mason'/2436, l='ServerLevel[world]', x=1441.70, y=70.00, z=239.50] died, message: 'Mason was slain by GODOFREDO'
+[05:05:28] [Server thread/INFO]: Villager class_1646['Fletcher'/2475, l='ServerLevel[world]', x=1441.70, y=70.00, z=237.50] died, message: 'Fletcher was slain by Zombie'
+[05:06:16] [Server thread/INFO]: Villager class_1646['Weaponsmith'/101, l='ServerLevel[world]', x=1441.70, y=71.00, z=247.30] died, message: 'Weaponsmith was slain by Elpucarlino'
+[05:06:32] [Server thread/INFO]: Villager class_1646['Unemployed'/4024, l='ServerLevel[world]', x=1441.15, y=71.56, z=237.40] died, message: 'Unemployed was slain by Zombie Villager'
+[05:06:36] [Server thread/INFO]: Villager class_1646['Unemployed'/4025, l='ServerLevel[world]', x=1441.15, y=72.02, z=237.56] died, message: 'Unemployed was slain by Zombie Villager'
+[05:06:39] [Server thread/INFO]: Named entity class_1642['GODOFREDO'/94, l='ServerLevel[world]', x=1442.70, y=70.00, z=238.24] died: GODOFREDO was slain by Elpucarlino
+[05:09:00] [Server thread/INFO]: Villager class_1646['Weaponsmith'/4018, l='ServerLevel[world]', x=1441.70, y=71.00, z=247.30] died, message: 'Weaponsmith was slain by Elpucarlino'
+[05:09:20] [Server thread/INFO]: Villager class_1646['Unemployed'/4330, l='ServerLevel[world]', x=1441.03, y=71.00, z=247.48] died, message: 'Unemployed was slain by Elpucarlino'
