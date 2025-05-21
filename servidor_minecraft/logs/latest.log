@@ -189,3 +189,4 @@
 [05:06:39] [Server thread/INFO]: Named entity class_1642['GODOFREDO'/94, l='ServerLevel[world]', x=1442.70, y=70.00, z=238.24] died: GODOFREDO was slain by Elpucarlino
 [05:09:00] [Server thread/INFO]: Villager class_1646['Weaponsmith'/4018, l='ServerLevel[world]', x=1441.70, y=71.00, z=247.30] died, message: 'Weaponsmith was slain by Elpucarlino'
 [05:09:20] [Server thread/INFO]: Villager class_1646['Unemployed'/4330, l='ServerLevel[world]', x=1441.03, y=71.00, z=247.48] died, message: 'Unemployed was slain by Elpucarlino'
+[05:18:44] [Server thread/INFO]: [Elpucarlino: The difficulty has been set to Normal]
