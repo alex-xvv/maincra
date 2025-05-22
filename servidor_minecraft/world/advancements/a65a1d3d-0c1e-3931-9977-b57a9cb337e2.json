@@ -640,6 +640,7 @@
       "apple": "2025-03-04 03:59:41 +0000",
       "cooked_chicken": "2025-03-05 05:08:36 +0000",
       "enchanted_golden_apple": "2025-03-08 05:19:51 +0000",
+      "potato": "2025-05-22 04:39:24 +0000",
       "cooked_cod": "2025-05-20 03:55:50 +0000",
       "cod": "2025-03-04 04:46:51 +0000",
       "carrot": "2025-03-03 06:38:29 +0000"
@@ -4340,6 +4341,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-05-20 04:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-05-22 04:40:10 +0000"
     },
     "done": true
   },
